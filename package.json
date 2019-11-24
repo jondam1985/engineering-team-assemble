@@ -1,0 +1,35 @@
+{
+  "name": "engineering-team-assemble",
+  "version": "1.0.0",
+  "description": "CLI application that creates a html page that shows the information of the member of an engineering team",
+  "main": "cli.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondam1985/engineering-team-assemble.git"
+  },
+  "keywords": [
+    "inquirer",
+    "team",
+    "engineering",
+    "creator",
+    "roster"
+  ],
+  "author": "Damian Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jondam1985/engineering-team-assemble/issues"
+  },
+  "homepage": "https://github.com/jondam1985/engineering-team-assemble#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
